@@ -30,7 +30,9 @@ godot/.mono/
 godot/data_*/
 godot/export.cfg
 rust/**/*.rs.bk
+rust/.vscode/
 rust/Cargo.lock
 rust/debug/
+lib/
 target/
 tramp
